@@ -1,6 +1,6 @@
 # Multi-level-Feedback-Queue
 
-Programming language used: JAVA  
+Programming language used: Java  
 
 A simulation of Multi-level feedback queue scheduling algorithm with GUI (Complete with tabled results and add new tab functionality).  
 
